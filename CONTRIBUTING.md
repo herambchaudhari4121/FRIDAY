@@ -54,3 +54,9 @@
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 - Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification.
+
+# FRIDAY PCCOE
+<div align="center">
+
+<a href="https://github.com/dsclnct/Hacktoberfest-DSC-Website"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/dsclnct/Hacktoberfest-DSC-Website"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
